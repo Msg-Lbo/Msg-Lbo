@@ -16,7 +16,7 @@
 ### 开源项目
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Msg-Lbo&repo=Cultural-propaganda)](https://github.com/Msg-Lbo/Cultural-propaganda)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Msg-Lbo&repo=Express_Blog)](https://github.com/Msg-Lbo/Express_Blog)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Msg-Lbo&repo=Express-Blog)](https://github.com/Msg-Lbo/Express-Blog)
 <br>
 
 ### Github 活跃度
