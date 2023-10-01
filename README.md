@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:Msg-Lbo?theme=rule34">
+<img align="center" src="https://count.getloli.com/get/@:Msg-Lbo?theme=rule34">
 <br>
 
 ### **技术栈:**
