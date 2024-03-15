@@ -18,7 +18,8 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Msg-Lbo&repo=Cultural-propaganda)](https://github.com/Msg-Lbo/Cultural-propaganda)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Msg-Lbo&repo=Express-Blog)](https://github.com/Msg-Lbo/Express-Blog)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Msg-Lbo&repo=camera)](https://github.com/Msg-Lbo/camera)
-
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Msg-Lbo&repo=video-compression)](https://github.com/Msg-Lbo/video-compression)
+https://github.com/Msg-Lbo/video-compression
 <br>
 
 ### Github 活跃度
