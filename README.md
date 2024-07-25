@@ -19,4 +19,4 @@
 [![](https://activity-graph.herokuapp.com/graph?username=Msg-Lbo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Msg-Lbo's github stats](https://github-readme-stats.vercel.app/api?username=Msg-Lbo&show_icons=true&theme=vue)
 
-![](https://github-readme-stats.ytb.icu/api?username=Msg-Lbo&show_icons=true&theme=dracula)
+![](https://github-readme-stats.ytb.icu/api/top-langs/?username=Msg-Lbo&layout=compact)
