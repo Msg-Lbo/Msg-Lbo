@@ -1,6 +1,6 @@
 <p align="left">
-<a href="#"><img width="425" src="https://github-readme-stats.vercel.app/api?username=Msg-Lbo&show_icons=true&border_color=ffffff&bg_color=ffffff" /></a>
-<a href="#"><img width="425" src="https://count.getloli.com/@Msg-Lbo?name=Msg-Lbo&theme=booru-lewd&padding=8&offset=0&align=center&scale=2&pixelated=1&darkmode=1&num=24130801" /></a>
+<a href="#"><img width="420" src="https://github-readme-stats.vercel.app/api?username=Msg-Lbo&show_icons=true&border_color=ffffff&bg_color=ffffff" /></a>
+<a href="#"><img width="420" src="https://count.getloli.com/@Msg-Lbo?name=Msg-Lbo&theme=booru-lewd&padding=8&offset=0&align=center&scale=2&pixelated=1&darkmode=1&num=24130801" /></a>
 </p>
   
 
