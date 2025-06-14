@@ -1,22 +1,15 @@
-<img align="center" src="https://count.getloli.com/get/@:Msg-Lbo?theme=rule34">
-<br>
+<div align="center" style="width: 100%; display: flex; justify-content: center; align-items: center;">
 
-### **技术栈:**
-![](https://skillicons.dev/icons?i=js,ts,vite,vue,html,css,scss,nodejs,python,django,express,git,github,md,nginx,pinia,pnpm,npm,yarn,postman,mysql,sqlite,vscode,pycharm)
+  <div style="flex:1; height: 130px; background:#fff; border-radius: 10px; padding: 10px; display: flex; justify-content: center; align-items: center; margin-right:5px">
+  <img src="https://count.getloli.com/@Msg-Lbo?name=Msg-Lbo&theme=booru-lewd&padding=8&offset=0&align=center&scale=2&pixelated=1&darkmode=1&num=24130801"  />
+  </div>
 
+  <div style="flex:1; height: 130px; background:#fff; border-radius: 10px; display: flex; justify-content: center; align-items: center; margin-left:5px"">
+  <img src="https://github-readme-stats.vercel.app/api?username=Msg-Lbo&show_icons=true&border_color=ffffff&bg_color=ffffff" />
+  </div>
+  
+</div>
+<div  style="flex:1; height: 130px; border-radius: 10px; display: flex; justify-content: center; align-items: center; margin-top:10px">
+<img align="center" src="./images/github-user-contribution.svg"/>
 
-### 开源项目
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Msg-Lbo&repo=Cultural-propaganda)](https://github.com/Msg-Lbo/Cultural-propaganda)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Msg-Lbo&repo=Express-Blog-Web)](https://github.com/Msg-Lbo/Express-Blog-Web)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Msg-Lbo&repo=camera)](https://github.com/Msg-Lbo/camera)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Msg-Lbo&repo=video-compression)](https://github.com/Msg-Lbo/video-compression)
-
-<br>
-
-### Github 活跃度
-
-[![](https://activity-graph.herokuapp.com/graph?username=Msg-Lbo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Msg-Lbo's github stats](https://github-readme-stats.vercel.app/api?username=Msg-Lbo&show_icons=true&theme=vue)
-
-![](https://github-readme-stats.ytb.icu/api/top-langs/?username=Msg-Lbo&layout=compact)
+</div>
