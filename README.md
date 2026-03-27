@@ -109,19 +109,12 @@ Status    -> Always building something interesting
 ## GitHub Pulse
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Msg-Lbo&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Msg-Lbo&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&bg_color=00000000" />
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Msg-Lbo&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&bg_color=00000000" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=Msg-Lbo&hide_border=true&background=FFFFFF00" alt="GitHub streak stats" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Msg-Lbo&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Msg-Lbo&layout=compact&theme=default&hide_border=true&bg_color=00000000" />
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msg-Lbo&layout=compact&theme=default&hide_border=true&bg_color=00000000" />
-  </picture>
+  <img src="https://img.shields.io/github/followers/Msg-Lbo?style=for-the-badge&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Msg-Lbo?style=for-the-badge&label=Stars" alt="GitHub stars" />
 </div>
 
 <div align="center">
