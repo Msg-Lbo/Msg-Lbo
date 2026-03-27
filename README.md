@@ -18,9 +18,11 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
-<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://count.getloli.com/@Msg-Lbo?name=Msg-Lbo&theme=booru-lewd&padding=8&offset=0&align=center&scale=2&pixelated=1&darkmode=1&num=24130801" />
+  <source media="(prefers-color-scheme: light)" srcset="https://count.getloli.com/@Msg-Lbo?name=Msg-Lbo&theme=booru-lewd&padding=8&offset=0&align=center&scale=2&pixelated=1&darkmode=0&num=24130801" />
   <img src="https://count.getloli.com/@Msg-Lbo?name=Msg-Lbo&theme=booru-lewd&padding=8&offset=0&align=center&scale=2&pixelated=1&darkmode=0&num=24130801" alt="Visitor Counter" />
-</p>
+</picture>
 
 </div>
 
@@ -109,12 +111,15 @@ Status    -> Always building something interesting
 ## GitHub Pulse
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Msg-Lbo&hide_border=true&background=FFFFFF00" alt="GitHub streak stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Msg-Lbo&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=F78166&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Msg-Lbo&theme=default&hide_border=true&background=FFFFFF00" />
+    <img src="https://streak-stats.demolab.com?user=Msg-Lbo&theme=default&hide_border=true&background=FFFFFF00" alt="GitHub streak stats" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/Msg-Lbo?style=for-the-badge&label=Followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Msg-Lbo?style=for-the-badge&label=Stars" alt="GitHub stars" />
+  <sub>Less vanity, more building.</sub>
 </div>
 
 <div align="center">
