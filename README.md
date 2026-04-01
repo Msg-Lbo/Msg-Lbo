@@ -2,11 +2,10 @@
 
 # Msg-Lbo
 
-### Build useful things. Ship fast. Stay curious.
+### Frontend-first developer building useful web apps, desktop tools, and small products.
 
 <p>
-  前端 / 全栈 / Electron / Python 插件开发者<br />
-  喜欢把灵感变成真正能跑起来的项目
+  把灵感做成项目，把项目做得更顺手一点。
 </p>
 
 <p>
@@ -31,42 +30,55 @@
 ## About
 
 ```text
-Name      -> Msg-Lbo
-Focus     -> Frontend / Full-Stack / Desktop Apps / Tooling
-Stack     -> Vue 3 / TypeScript / Node.js / Electron / Python
-Style     -> Clean UX, useful tools, product-minded implementation
-Status    -> Always building something interesting
+Role      -> Frontend / Full-Stack / Desktop App Developer
+Focus     -> Product-like side projects, useful tools, modern web apps
+Stack     -> Vue 3 / TypeScript / Vite / Node.js / Electron / Python
+Mindset   -> Ship fast, keep it clean, make it actually usable
 ```
 
-> 我喜欢两类项目：
-> 一类是能直接解决问题的工具，另一类是把想法落地成完整产品的作品。
+我喜欢做两类东西：
+
+- 能直接解决问题的工具
+- 能慢慢长成产品的项目
 
 ---
 
-## Highlight Projects
+## Current Focus
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>mailfree</h3>
+      <p>近期比较活跃的项目之一，偏实用型产品方向。</p>
+      <a href="https://github.com/Msg-Lbo/mailfree">Open Repo</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>codeX-register</h3>
+      <p>新近投入的项目，代表当前的开发节奏和产出状态。</p>
+      <a href="https://github.com/Msg-Lbo/codeX-register">Open Repo</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>RideWind</h3>
+      <p>近期代表作之一，适合放在主页承担项目门面。</p>
+      <a href="https://github.com/Msg-Lbo/RideWind">Open Repo</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Selected Work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>RideWind</h3>
-      <p>近期活跃项目，放在主页最前面的代表作之一。</p>
-      <a href="https://github.com/Msg-Lbo/RideWind">View Project</a>
-    </td>
-    <td width="50%" valign="top">
       <h3>vue3-naive-template</h3>
-      <p>Vue 3 + TypeScript + Naive UI 启动模板，适合快速拉起现代前端项目。</p>
+      <p>一个现代 Vue 3 启动模板，覆盖 TypeScript、Naive UI、Tailwind CSS 和 Pinia。</p>
       <a href="https://github.com/Msg-Lbo/vue3-naive-template">View Project</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>mailfree</h3>
-      <p>最近仍在维护的 JavaScript 项目，偏产品化和实用型方向。</p>
-      <a href="https://github.com/Msg-Lbo/mailfree">View Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>Express Blog</h3>
-      <p>由 <code>Express-Blog-Next</code> 和 <code>Express-Blog-Server</code> 组成的博客前后端实践。</p>
+      <p>由前端和后端两个仓库组成的博客实践，强调简洁页面与完整链路。</p>
       <a href="https://github.com/Msg-Lbo/Express-Blog-Next">Frontend</a>
       ·
       <a href="https://github.com/Msg-Lbo/Express-Blog-Server">Backend</a>
@@ -75,12 +87,12 @@ Status    -> Always building something interesting
   <tr>
     <td width="50%" valign="top">
       <h3>video-compression</h3>
-      <p>基于 Electron 的桌面视频压缩工具，把桌面端能力和实用场景结合起来。</p>
+      <p>基于 Electron 的桌面视频压缩工具，关注效率和可落地场景。</p>
       <a href="https://github.com/Msg-Lbo/video-compression">View Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>camera</h3>
-      <p>基于 Electron-Vite 的多平台摄像头软件，偏桌面工具产品方向。</p>
+      <p>多平台桌面摄像头软件，继续延伸我对桌面工具类产品的兴趣。</p>
       <a href="https://github.com/Msg-Lbo/camera">View Project</a>
     </td>
   </tr>
@@ -88,22 +100,23 @@ Status    -> Always building something interesting
 
 ---
 
-## Side Quests
+## Other Experiments
 
-- [nonebot-plugin-nsfw-detector](https://github.com/Msg-Lbo/nonebot-plugin-nsfw-detector) - NoneBot2 图片检测插件
+- [nonebot-plugin-nsfw-detector](https://github.com/Msg-Lbo/nonebot-plugin-nsfw-detector) - 基于 NoneBot2 的图片检测插件
 - [nonebot-plugin-palbreed](https://github.com/Msg-Lbo/nonebot-plugin-palbreed) - 帕鲁配种查询插件
-- [Cultural-propaganda](https://github.com/Msg-Lbo/Cultural-propaganda) - Vue3 + Vite + TypeScript + Express 的平台项目
+- [Cultural-propaganda](https://github.com/Msg-Lbo/Cultural-propaganda) - Vue3 + TypeScript + Express 的完整平台练习
+- [echo-craft](https://github.com/Msg-Lbo/echo-craft) - 偏实验性质的小项目
 
 ---
 
-## Tech Radar
+## Build Themes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Product%20Thinking-111111?style=flat-square" alt="Product Thinking" />
-  <img src="https://img.shields.io/badge/User%20Experience-222222?style=flat-square" alt="User Experience" />
-  <img src="https://img.shields.io/badge/Desktop%20Tools-333333?style=flat-square" alt="Desktop Tools" />
-  <img src="https://img.shields.io/badge/Web%20Apps-444444?style=flat-square" alt="Web Apps" />
-  <img src="https://img.shields.io/badge/Bot%20Plugins-555555?style=flat-square" alt="Bot Plugins" />
+  <img src="https://img.shields.io/badge/Web%20Apps-0f172a?style=flat-square" alt="Web Apps" />
+  <img src="https://img.shields.io/badge/Desktop%20Tools-1e293b?style=flat-square" alt="Desktop Tools" />
+  <img src="https://img.shields.io/badge/Developer%20Tooling-334155?style=flat-square" alt="Developer Tooling" />
+  <img src="https://img.shields.io/badge/Product%20Thinking-475569?style=flat-square" alt="Product Thinking" />
+  <img src="https://img.shields.io/badge/Bot%20Plugins-64748b?style=flat-square" alt="Bot Plugins" />
 </p>
 
 ---
@@ -136,6 +149,6 @@ Status    -> Always building something interesting
 
 ### Philosophy
 
-`Make it useful.` `Make it clean.` `Make it memorable.`
+`Useful beats flashy.` `Shipping beats waiting.` `Clean beats clever.`
 
 </div>
