@@ -62,17 +62,17 @@ SIGNAL    :: Ship fast, iterate fast, keep it maintainable
   <tr>
     <td width="33%" valign="top">
       <h3>MSRegFlow</h3>
-      <p>新加入的流程型项目，代表当前阶段更强的自动化和流程化方向。</p>
+      <p>我用这个 Chrome 扩展把 Codex / OpenAI OAuth 注册、收码、授权和导入流程串成了一条自动化流水线。</p>
       <a href="https://github.com/Msg-Lbo/MSRegFlow">[ enter ]</a>
     </td>
     <td width="33%" valign="top">
       <h3>microsoft-account-manager</h3>
-      <p>围绕 Microsoft 账号和邮件处理的工具链项目，偏实战和效率提升。</p>
+      <p>我把微软账号管理、批量导入、刷新令牌和邮件查看整合成了一个跑在 Cloudflare Workers 上的后台系统。</p>
       <a href="https://github.com/Msg-Lbo/microsoft-account-manager">[ enter ]</a>
     </td>
     <td width="33%" valign="top">
       <h3>codeX-register</h3>
-      <p>持续更新中的项目，体现当前开发频率与项目推进节奏。</p>
+      <p>我把注册流程、邮箱池、短信接码、代理切换和账号运维收进了一个本地桌面控制台里。</p>
       <a href="https://github.com/Msg-Lbo/codeX-register">[ enter ]</a>
     </td>
   </tr>
@@ -86,24 +86,24 @@ SIGNAL    :: Ship fast, iterate fast, keep it maintainable
   <tr>
     <td width="50%" valign="top">
       <h3>mailfree</h3>
-      <p>近期较活跃的实用型项目，偏产品化和真实使用场景。</p>
+      <p>我用 Cloudflare Workers、D1 和 R2 搭了一套支持收发件、权限控制和后台管理的临时邮箱系统。</p>
       <a href="https://github.com/Msg-Lbo/mailfree">View Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>RideWind</h3>
-      <p>近期代表作之一，适合承担主页中的门面项目角色。</p>
+      <p>我把它当成近期持续打磨的主项目之一，用来承载现在这阶段最想认真做的产品感和实现力。</p>
       <a href="https://github.com/Msg-Lbo/RideWind">View Project</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>vue3-naive-template</h3>
-      <p>现代 Vue 3 启动模板，覆盖 TypeScript、Naive UI、Tailwind CSS 和 Pinia。</p>
+      <p>我把 Vue 3、TypeScript、Naive UI、Tailwind CSS 和 Pinia 预先装好，方便自己快速起一个现代前端项目。</p>
       <a href="https://github.com/Msg-Lbo/vue3-naive-template">View Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>Express Blog</h3>
-      <p>由前后端仓库组成的博客实践，强调极简界面和完整链路。</p>
+      <p>我把一个前后端分离的极简博客拆成两个仓库，顺手把从页面到接口的整条链路都走通了。</p>
       <a href="https://github.com/Msg-Lbo/Express-Blog-Next">Frontend</a>
       ·
       <a href="https://github.com/Msg-Lbo/Express-Blog-Server">Backend</a>
@@ -112,12 +112,12 @@ SIGNAL    :: Ship fast, iterate fast, keep it maintainable
   <tr>
     <td width="50%" valign="top">
       <h3>video-compression</h3>
-      <p>基于 Electron 的视频压缩工具，强调效率和落地价值。</p>
+      <p>我想把视频压缩这件事做得更直接一点，所以用 Electron 做了一个桌面工具来处理这类需求。</p>
       <a href="https://github.com/Msg-Lbo/video-compression">View Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>camera</h3>
-      <p>多平台桌面摄像头软件，延伸我对桌面工具类产品的兴趣。</p>
+      <p>我用 Electron-Vite 做了一个多平台桌面摄像头工具，想把常见硬件能力包装得更顺手一些。</p>
       <a href="https://github.com/Msg-Lbo/camera">View Project</a>
     </td>
   </tr>
@@ -127,10 +127,10 @@ SIGNAL    :: Ship fast, iterate fast, keep it maintainable
 
 ## Side Processes
 
-- [nonebot-plugin-nsfw-detector](https://github.com/Msg-Lbo/nonebot-plugin-nsfw-detector) - 基于 NoneBot2 的图片检测插件
-- [nonebot-plugin-palbreed](https://github.com/Msg-Lbo/nonebot-plugin-palbreed) - 帕鲁配种查询插件
-- [Cultural-propaganda](https://github.com/Msg-Lbo/Cultural-propaganda) - Vue3 + TypeScript + Express 的完整平台练习
-- [echo-craft](https://github.com/Msg-Lbo/echo-craft) - 偏实验性质的小项目
+- [nonebot-plugin-nsfw-detector](https://github.com/Msg-Lbo/nonebot-plugin-nsfw-detector) - 我给 NoneBot2 接上了图片检测能力，让群聊里的不当图片可以自动识别和处理
+- [nonebot-plugin-palbreed](https://github.com/Msg-Lbo/nonebot-plugin-palbreed) - 我把帕鲁配种查询做成了一个轻量小插件，主打即装即查
+- [Cultural-propaganda](https://github.com/Msg-Lbo/Cultural-propaganda) - 我用 Vue3 + TypeScript + Express 搭过一个完整的平台型练习项目
+- [echo-craft](https://github.com/Msg-Lbo/echo-craft) - 我偶尔也会做一些更偏实验性质的小东西，拿来试想法和试手感
 
 ---
 
