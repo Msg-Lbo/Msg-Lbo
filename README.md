@@ -52,7 +52,7 @@ PATTERN   :: Build useful tools / shape product-like side projects / keep UX cle
 SIGNAL    :: Ship fast, iterate fast, keep it maintainable
 ```
 
-> 我更喜欢那种能真正跑起来、能实际解决问题、还能继续迭代下去的项目。
+> 更偏爱那种能真正跑起来、能解决问题、还能越做越顺手的项目。
 
 ---
 
@@ -62,17 +62,17 @@ SIGNAL    :: Ship fast, iterate fast, keep it maintainable
   <tr>
     <td width="33%" valign="top">
       <h3>MSRegFlow</h3>
-      <p>我用这个 Chrome 扩展把 Codex / OpenAI OAuth 注册、收码、授权和导入流程串成了一条自动化流水线。</p>
+      <p>把 Codex / OpenAI OAuth 注册、收码、授权和导入流程塞进一个 Chrome 扩展里，点点按钮就能一路跑完。</p>
       <a href="https://github.com/Msg-Lbo/MSRegFlow">[ enter ]</a>
     </td>
     <td width="33%" valign="top">
       <h3>microsoft-account-manager</h3>
-      <p>我把微软账号管理、批量导入、刷新令牌和邮件查看整合成了一个跑在 Cloudflare Workers 上的后台系统。</p>
+      <p>把微软账号管理、批量导入、令牌刷新和邮件查看揉进一个 Cloudflare Workers 后台，省得账号到处乱飞。</p>
       <a href="https://github.com/Msg-Lbo/microsoft-account-manager">[ enter ]</a>
     </td>
     <td width="33%" valign="top">
       <h3>codeX-register</h3>
-      <p>我把注册流程、邮箱池、短信接码、代理切换和账号运维收进了一个本地桌面控制台里。</p>
+      <p>把注册流程、邮箱池、代理、短信接码、账号运维和 CF DNS 收进一个网页里，顺手还配了个客户端小玩意。</p>
       <a href="https://github.com/Msg-Lbo/codeX-register">[ enter ]</a>
     </td>
   </tr>
@@ -86,24 +86,24 @@ SIGNAL    :: Ship fast, iterate fast, keep it maintainable
   <tr>
     <td width="50%" valign="top">
       <h3>mailfree</h3>
-      <p>我用 Cloudflare Workers、D1 和 R2 搭了一套支持收发件、权限控制和后台管理的临时邮箱系统。</p>
+      <p>一套跑在 Cloudflare 上的临时邮箱系统，收件、发件、权限和后台管理都给安排上了。</p>
       <a href="https://github.com/Msg-Lbo/mailfree">View Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>RideWind</h3>
-      <p>我把它当成近期持续打磨的主项目之一，用来承载现在这阶段最想认真做的产品感和实现力。</p>
+      <p>近期持续打磨中的主项目之一，用来装下这段时间最想认真做的产品感和完成度。</p>
       <a href="https://github.com/Msg-Lbo/RideWind">View Project</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>vue3-naive-template</h3>
-      <p>我把 Vue 3、TypeScript、Naive UI、Tailwind CSS 和 Pinia 预先装好，方便自己快速起一个现代前端项目。</p>
+      <p>把 Vue 3、TypeScript、Naive UI、Tailwind CSS 和 Pinia 先铺好，起新项目时可以直接开跑。</p>
       <a href="https://github.com/Msg-Lbo/vue3-naive-template">View Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>Express Blog</h3>
-      <p>我把一个前后端分离的极简博客拆成两个仓库，顺手把从页面到接口的整条链路都走通了。</p>
+      <p>一个前后端分离的极简博客，从页面到接口整条链路都自己走了一遍。</p>
       <a href="https://github.com/Msg-Lbo/Express-Blog-Next">Frontend</a>
       ·
       <a href="https://github.com/Msg-Lbo/Express-Blog-Server">Backend</a>
@@ -112,12 +112,12 @@ SIGNAL    :: Ship fast, iterate fast, keep it maintainable
   <tr>
     <td width="50%" valign="top">
       <h3>video-compression</h3>
-      <p>我想把视频压缩这件事做得更直接一点，所以用 Electron 做了一个桌面工具来处理这类需求。</p>
+      <p>视频压缩不想再绕路，所以干脆做成了一个打开就能用的 Electron 桌面工具。</p>
       <a href="https://github.com/Msg-Lbo/video-compression">View Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>camera</h3>
-      <p>我用 Electron-Vite 做了一个多平台桌面摄像头工具，想把常见硬件能力包装得更顺手一些。</p>
+      <p>把摄像头能力包成了一个多平台桌面小工具，主打一个顺手和直接。</p>
       <a href="https://github.com/Msg-Lbo/camera">View Project</a>
     </td>
   </tr>
@@ -127,10 +127,10 @@ SIGNAL    :: Ship fast, iterate fast, keep it maintainable
 
 ## Side Processes
 
-- [nonebot-plugin-nsfw-detector](https://github.com/Msg-Lbo/nonebot-plugin-nsfw-detector) - 我给 NoneBot2 接上了图片检测能力，让群聊里的不当图片可以自动识别和处理
-- [nonebot-plugin-palbreed](https://github.com/Msg-Lbo/nonebot-plugin-palbreed) - 我把帕鲁配种查询做成了一个轻量小插件，主打即装即查
-- [Cultural-propaganda](https://github.com/Msg-Lbo/Cultural-propaganda) - 我用 Vue3 + TypeScript + Express 搭过一个完整的平台型练习项目
-- [echo-craft](https://github.com/Msg-Lbo/echo-craft) - 我偶尔也会做一些更偏实验性质的小东西，拿来试想法和试手感
+- [nonebot-plugin-nsfw-detector](https://github.com/Msg-Lbo/nonebot-plugin-nsfw-detector) - 给 NoneBot2 接上图片检测能力，让群聊里的不当图片自动识别和处理
+- [nonebot-plugin-palbreed](https://github.com/Msg-Lbo/nonebot-plugin-palbreed) - 把帕鲁配种查询做成了一个轻量小插件，主打即装即查
+- [Cultural-propaganda](https://github.com/Msg-Lbo/Cultural-propaganda) - 用 Vue3 + TypeScript + Express 搭过一个完整的平台型练习项目
+- [echo-craft](https://github.com/Msg-Lbo/echo-craft) - 偶尔也会做些更偏实验性质的小东西，拿来试想法和试手感
 
 ---
 
