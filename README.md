@@ -48,19 +48,19 @@ Mindset   -> Ship fast, keep it clean, make it actually usable
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>mailfree</h3>
-      <p>近期比较活跃的项目之一，偏实用型产品方向。</p>
-      <a href="https://github.com/Msg-Lbo/mailfree">Open Repo</a>
+      <h3>MSRegFlow</h3>
+      <p>新加入的流程型项目，明显更贴近当前这段时间的开发方向。</p>
+      <a href="https://github.com/Msg-Lbo/MSRegFlow">Open Repo</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>microsoft-account-manager</h3>
+      <p>围绕 Microsoft 账号与邮件管理的工具型项目，实用属性很强。</p>
+      <a href="https://github.com/Msg-Lbo/microsoft-account-manager">Open Repo</a>
     </td>
     <td width="33%" valign="top">
       <h3>codeX-register</h3>
-      <p>新近投入的项目，代表当前的开发节奏和产出状态。</p>
+      <p>持续更新中的项目，能体现你现在的开发节奏和产出密度。</p>
       <a href="https://github.com/Msg-Lbo/codeX-register">Open Repo</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>RideWind</h3>
-      <p>近期代表作之一，适合放在主页承担项目门面。</p>
-      <a href="https://github.com/Msg-Lbo/RideWind">Open Repo</a>
     </td>
   </tr>
 </table>
@@ -70,6 +70,18 @@ Mindset   -> Ship fast, keep it clean, make it actually usable
 ## Selected Work
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>mailfree</h3>
+      <p>近期较活跃的实用型项目，偏产品化和真实使用场景。</p>
+      <a href="https://github.com/Msg-Lbo/mailfree">View Project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>RideWind</h3>
+      <p>近期代表作之一，适合承担主页里的项目门面角色。</p>
+      <a href="https://github.com/Msg-Lbo/RideWind">View Project</a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>vue3-naive-template</h3>
