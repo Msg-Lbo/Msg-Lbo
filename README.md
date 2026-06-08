@@ -56,81 +56,91 @@ SIGNAL    :: Ship fast, iterate fast, keep it maintainable
 
 ---
 
-## Live Channels
+## Now Building
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <h3>Gitio</h3>
+      <p>面向 PC 端的 Git 桌面工作台，把仓库状态、分支、提交图谱和常用操作放进一个清晰的桌面界面里。</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3AA0FF?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Desktop%20Tool-00E5A8?style=flat-square" alt="Desktop Tool" />
+      </p>
+      <a href="https://github.com/Msg-Lbo/gitio">Open Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>unified-admin-panel</h3>
+      <p>统一查看 Sub2Api 与 CliProxyApi 的账号状态和使用率，给多服务管理补一个更直观的控制台。</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3AA0FF?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Admin%20Panel-FF7AF6?style=flat-square" alt="Admin Panel" />
+      </p>
+      <a href="https://github.com/Msg-Lbo/unified-admin-panel">Open Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>MSRegFlow</h3>
       <p>把 Codex / OpenAI OAuth 注册、收码、授权和导入流程塞进一个 Chrome 扩展里，点点按钮就能一路跑完。</p>
-      <a href="https://github.com/Msg-Lbo/MSRegFlow">[ enter ]</a>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-FFE45E?style=flat-square&logo=javascript&logoColor=1a1605" alt="JavaScript" />
+        <img src="https://img.shields.io/github/stars/Msg-Lbo/MSRegFlow?style=flat-square&color=00E5A8" alt="stars" />
+      </p>
+      <a href="https://github.com/Msg-Lbo/MSRegFlow">Open Repository</a>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>microsoft-account-manager</h3>
-      <p>把微软账号管理、批量导入、令牌刷新和邮件查看揉进一个 Cloudflare Workers 后台，省得账号到处乱飞。</p>
-      <a href="https://github.com/Msg-Lbo/microsoft-account-manager">[ enter ]</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>codeX-register</h3>
-      <p>把注册流程、邮箱池、代理、短信接码、账号运维和 CF DNS 收进一个网页里，顺手还配了个客户端小玩意。</p>
-      <a href="https://github.com/Msg-Lbo/codeX-register">[ enter ]</a>
+      <p>把微软账号管理、批量导入、令牌刷新和邮件查看揉进一个 Cloudflare Workers 后台，适合批量运维场景。</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3AA0FF?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/github/stars/Msg-Lbo/microsoft-account-manager?style=flat-square&color=00E5A8" alt="stars" />
+      </p>
+      <a href="https://github.com/Msg-Lbo/microsoft-account-manager">Open Repository</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## Featured Nodes
+## Project Signals
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>mailfree</h3>
-      <p>一套跑在 Cloudflare 上的临时邮箱系统，收件、发件、权限和后台管理都给安排上了。</p>
-      <a href="https://github.com/Msg-Lbo/mailfree">View Project</a>
+    <td width="33%" valign="top">
+      <h3>Tools I keep shaping</h3>
+      <p>桌面工具、浏览器扩展、管理后台和自动化面板，优先做能真实减少重复劳动的东西。</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>RideWind</h3>
-      <p>近期持续打磨中的主项目之一，用来装下这段时间最想认真做的产品感和完成度。</p>
-      <a href="https://github.com/Msg-Lbo/RideWind">View Project</a>
+    <td width="33%" valign="top">
+      <h3>Stack I reach for</h3>
+      <p>Vue 3、TypeScript、Vite、Node.js、Electron、Cloudflare Workers，以及必要时用 Python 补自动化。</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>vue3-naive-template</h3>
-      <p>把 Vue 3、TypeScript、Naive UI、Tailwind CSS 和 Pinia 先铺好，起新项目时可以直接开跑。</p>
-      <a href="https://github.com/Msg-Lbo/vue3-naive-template">View Project</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Express Blog</h3>
-      <p>一个前后端分离的极简博客，从页面到接口整条链路都自己走了一遍。</p>
-      <a href="https://github.com/Msg-Lbo/Express-Blog-Next">Frontend</a>
-      ·
-      <a href="https://github.com/Msg-Lbo/Express-Blog-Server">Backend</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>video-compression</h3>
-      <p>视频压缩不想再绕路，所以干脆做成了一个打开就能用的 Electron 桌面工具。</p>
-      <a href="https://github.com/Msg-Lbo/video-compression">View Project</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>camera</h3>
-      <p>把摄像头能力包成了一个多平台桌面小工具，主打一个顺手和直接。</p>
-      <a href="https://github.com/Msg-Lbo/camera">View Project</a>
+    <td width="33%" valign="top">
+      <h3>What counts as done</h3>
+      <p>不是只把 demo 跑起来，而是让入口、状态、错误处理和使用体验都能说得过去。</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Side Processes
+## Lab Archive
+
+<p>
+  <a href="https://github.com/Msg-Lbo/mailfree"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Msg-Lbo&repo=mailfree&theme=transparent&hide_border=true&title_color=7AD7FF&text_color=C9D1D9&icon_color=00E5A8" alt="mailfree" /></a>
+  <a href="https://github.com/Msg-Lbo/vue3-naive-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Msg-Lbo&repo=vue3-naive-template&theme=transparent&hide_border=true&title_color=7AD7FF&text_color=C9D1D9&icon_color=00E5A8" alt="vue3-naive-template" /></a>
+</p>
+
+<details>
+  <summary>More experiments and older builds</summary>
+  <br />
 
 - [nonebot-plugin-nsfw-detector](https://github.com/Msg-Lbo/nonebot-plugin-nsfw-detector) - 给 NoneBot2 接上图片检测能力，让群聊里的不当图片自动识别和处理
 - [nonebot-plugin-palbreed](https://github.com/Msg-Lbo/nonebot-plugin-palbreed) - 把帕鲁配种查询做成了一个轻量小插件，主打即装即查
 - [Cultural-propaganda](https://github.com/Msg-Lbo/Cultural-propaganda) - 用 Vue3 + TypeScript + Express 搭过一个完整的平台型练习项目
-- [echo-craft](https://github.com/Msg-Lbo/echo-craft) - 偶尔也会做些更偏实验性质的小东西，拿来试想法和试手感
+- [camera](https://github.com/Msg-Lbo/camera) - 基于 Electron-Vite 实现的多平台桌面摄像头软件
+
+</details>
 
 ---
 
