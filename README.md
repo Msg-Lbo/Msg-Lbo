@@ -126,10 +126,28 @@ SIGNAL    :: Ship fast, iterate fast, keep it maintainable
 
 ## Lab Archive
 
-<p>
-  <a href="https://github.com/Msg-Lbo/mailfree"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Msg-Lbo&repo=mailfree&theme=transparent&hide_border=true&title_color=7AD7FF&text_color=C9D1D9&icon_color=00E5A8" alt="mailfree" /></a>
-  <a href="https://github.com/Msg-Lbo/vue3-naive-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Msg-Lbo&repo=vue3-naive-template&theme=transparent&hide_border=true&title_color=7AD7FF&text_color=C9D1D9&icon_color=00E5A8" alt="vue3-naive-template" /></a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>mailfree</h3>
+      <p>一套跑在 Cloudflare 上的临时邮箱系统，收件、发件、权限和后台管理都给安排上了。</p>
+      <p>
+        <img src="https://img.shields.io/badge/Cloudflare-FF7A1A?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+        <img src="https://img.shields.io/badge/Mail%20Tool-7AD7FF?style=flat-square" alt="Mail Tool" />
+      </p>
+      <a href="https://github.com/Msg-Lbo/mailfree">Open Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>vue3-naive-template</h3>
+      <p>把 Vue 3、TypeScript、Naive UI、Tailwind CSS 和 Pinia 先铺好，起新项目时可以直接开跑。</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vue%203-00E5A8?style=flat-square&logo=vuedotjs&logoColor=08110f" alt="Vue 3" />
+        <img src="https://img.shields.io/badge/Starter-3AA0FF?style=flat-square" alt="Starter" />
+      </p>
+      <a href="https://github.com/Msg-Lbo/vue3-naive-template">Open Repository</a>
+    </td>
+  </tr>
+</table>
 
 <details>
   <summary>More experiments and older builds</summary>
