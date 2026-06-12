@@ -101,54 +101,6 @@ SIGNAL    :: Ship fast, iterate fast, keep it maintainable
   </tr>
 </table>
 
----
-
-## Project Signals
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Tools I keep shaping</h3>
-      <p>桌面工具、浏览器扩展、管理后台和自动化面板，优先做能真实减少重复劳动的东西。</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Stack I reach for</h3>
-      <p>Vue 3、TypeScript、Vite、Node.js、Electron、Cloudflare Workers，以及必要时用 Python 补自动化。</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>What counts as done</h3>
-      <p>不是只把 demo 跑起来，而是让入口、状态、错误处理和使用体验都能说得过去。</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## Lab Archive
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>mailfree</h3>
-      <p>一套跑在 Cloudflare 上的临时邮箱系统，收件、发件、权限和后台管理都给安排上了。</p>
-      <p>
-        <img src="https://img.shields.io/badge/Cloudflare-FF7A1A?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-        <img src="https://img.shields.io/badge/Mail%20Tool-7AD7FF?style=flat-square" alt="Mail Tool" />
-      </p>
-      <a href="https://github.com/Msg-Lbo/mailfree">Open Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>vue3-naive-template</h3>
-      <p>把 Vue 3、TypeScript、Naive UI、Tailwind CSS 和 Pinia 先铺好，起新项目时可以直接开跑。</p>
-      <p>
-        <img src="https://img.shields.io/badge/Vue%203-00E5A8?style=flat-square&logo=vuedotjs&logoColor=08110f" alt="Vue 3" />
-        <img src="https://img.shields.io/badge/Starter-3AA0FF?style=flat-square" alt="Starter" />
-      </p>
-      <a href="https://github.com/Msg-Lbo/vue3-naive-template">Open Repository</a>
-    </td>
-  </tr>
-</table>
-
 <details>
   <summary>More experiments and older builds</summary>
   <br />
